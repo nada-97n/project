@@ -1,0 +1,35 @@
+body {
+    background-color: #b3cedc ;  
+}
+
+header h1 {
+    text-align: center;
+}
+
+img {
+    width: 450px;
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+
+p {
+    font-size: 18px;
+    text-align: center;
+    font-family: Arial;
+}
+
+footer {
+    
+    padding-top: 24px;
+    padding-bottom: 24px;
+    text-align: center;
+    background-color: #556e78;
+}
+
+a {
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial;
+}
